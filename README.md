@@ -95,16 +95,6 @@ Reshaped Array:
  [ 8  9 10 11]]
 
 
-markdown
-Copy code
-# 📚 Numpy Tutorial
-
-Welcome to the **Numpy Tutorial**! This project showcases fundamental and advanced operations using Numpy, a powerful numerical computing library in Python. The tutorial covers array creation, manipulation, mathematical operations, indexing, slicing, and performance benchmarks.
-
----
-
-## 🛠️ Getting Started
-
 ### Prerequisites
 - Python 3.x
 - Install Numpy: `pip install numpy`
