@@ -34,8 +34,7 @@ Run the code examples in:
 
 Create arrays of various dimensions and special types.
 
-```python
-import numpy as np
+### import numpy as np
 
 # 1D Array
 a = np.array([71, 89, 45])
