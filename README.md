@@ -104,26 +104,11 @@ Run the code examples in:
 - A Python interpreter
 - A Jupyter Notebook for interactive exploration
 
----
-
-## 📑 Table of Contents
-
-1. [Array Creation](#array-creation)
-2. [Basic Operations](#basic-operations)
-3. [Indexing and Slicing](#indexing-and-slicing)
-4. [Array Manipulation](#array-manipulation)
-5. [Mathematical Operations](#mathematical-operations)
-6. [Iterating Through Arrays](#iterating-through-arrays)
-7. [Performance Comparison](#performance-comparison)
-8. [Advanced Numpy](#advanced-numpy)
-
----
 
 ## 🌀 Array Creation
 
 Create arrays of various dimensions and special types.
 
-```python
 import numpy as np
 
 # 1D Array
